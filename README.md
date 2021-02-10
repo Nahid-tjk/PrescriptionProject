@@ -6,4 +6,4 @@ AsyncTextract.ipynb: Extracts text from all documents uploaded into Amazon S3 bu
 
 AzureFromRecognizer.ipynb:  Extracts text from documents using Azure Form Recognizer service
 
-AmazonVsAzure-Plot.ipynb: Compares confidence scores of extracted text usimg Amazon Textract and Azure Form Recognizer
+AmazonVsAzure-Plot.ipynb: Compares confidence scores of extracted text using Amazon Textract and Azure Form Recognizer
